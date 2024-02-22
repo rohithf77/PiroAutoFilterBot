@@ -27,7 +27,7 @@ class script(object):
 ○ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : 𝗣𝘆𝘁𝗵𝗼𝗻 3
 ○ 𝗦𝗲𝗿𝘃𝗲𝗿 : Contabo
 ○ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 : <a href='https://www.mongodb.com'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕 𝗙𝗿𝗲𝗲 𝗧𝗶𝗲𝗿</a>
-○ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽 : <a href='https://t.me/+K6DIefAu3SpmMDll'>𝗧𝗮𝗽 𝗛𝗲𝗿𝗲</a>"""
+○ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽 : <a href='https://t.me/asuka_movies'>𝗧𝗮𝗽 𝗛𝗲𝗿𝗲</a>"""
 
     SOURCE_TXT = """<b>𝗡𝗢𝗧𝗘:</b>
 <b>⚠️ 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖨𝗌 𝖭𝗈𝗍 𝖠𝗇 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍.!</b>
