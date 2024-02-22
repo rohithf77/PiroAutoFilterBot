@@ -26,7 +26,7 @@ class script(object):
 ○ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : <a href='https://t.me/f7xbots'>[F7]</a>
 ○ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : 𝗣𝘆𝘁𝗵𝗼𝗻 3
 ○ 𝗦𝗲𝗿𝘃𝗲𝗿 : Contabo
-○ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
+○ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 : <a href='https://www.mongodb.com'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕 𝗙𝗿𝗲𝗲 𝗧𝗶𝗲𝗿</a>
 ○ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽 : <a href='https://t.me/+K6DIefAu3SpmMDll'>𝗧𝗮𝗽 𝗛𝗲𝗿𝗲</a>"""
 
     SOURCE_TXT = """<b>𝗡𝗢𝗧𝗘:</b>
@@ -34,7 +34,7 @@ class script(object):
 
 <b>Developed By:</b>
 
-- <a href=>https://t.me/f7xbots[F7]</a>""" #please don't change repo link give credit :)
+- <a href=>https://t.me/f7xbots'>[F7]</a>""" #please don't change repo link give credit :)
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
